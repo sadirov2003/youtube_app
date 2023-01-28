@@ -2,7 +2,7 @@
 
 Youtube_App - это приложения дает вам доступ на просмотра видео из youtube. Также можете искать нужную вам видео и добавить на избранное.
 
-https://user-images.githubusercontent.com/111290018/215242863-aec6abf1-51e9-40d2-b48f-6ca8a49645da.mp4
+https://user-images.githubusercontent.com/111290018/215259084-d53c6128-6275-4cc3-a973-46348a3c1eb2.mp4
 
 This project is a starting point for a Flutter application.
 
