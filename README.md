@@ -1,6 +1,6 @@
 # flutter_youtube_app
 
-A new Flutter project.
+Youtube_App - это приложения дает вам доступ на просмотра видео из youtube. Также можете искать нужную вам видео и добавить на избранное.
 
 ## Getting Started
 https://user-images.githubusercontent.com/111290018/215242863-aec6abf1-51e9-40d2-b48f-6ca8a49645da.mp4
